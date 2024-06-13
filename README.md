@@ -17,7 +17,7 @@ To install the extension from the Chrome Web Store, follow these steps:
 
 1. **Visit the Chrome Web Store Page**
    - Click on the following link to visit the extension's page on the Chrome Web Store:
-     [Install from Chrome Web Store](https://chromewebstore.google.com/detail/simple-video-speed-contro/ohpkgkmkgebaafdahoaflnmjldoejmog)
+   - [Install from Chrome Web Store](https://chromewebstore.google.com/detail/simple-video-speed-contro/ohpkgkmkgebaafdahoaflnmjldoejmog)
 
 2. **Add to Chrome**
    - Click on the "Add to Chrome" button to install the extension.
@@ -27,13 +27,14 @@ To install the extension locally from the source, follow these steps:
 
 1. **Download the Source Code**
    - Download the repository as a ZIP file from the GitHub repository:
-     [Download ZIP](https://github.com/LSDP/Simple-Video-Speed-Controller/archive/refs/heads/main.zip)
+   - [Download ZIP](https://github.com/LSDP/Simple-Video-Speed-Controller/archive/refs/heads/main.zip)
 
 2. **Extract the ZIP File**
    - Extract the downloaded ZIP file to a location on your computer.
 
 3. **Open Chrome Extensions Page**
-   - Open Google Chrome and navigate to the [Extensions page](chrome://extensions/).
+   - Open Google Chrome and navigate to the
+   - [Extensions page](chrome://extensions/).
 
 4. **Enable Developer Mode**
    - In the top right corner, toggle the "Developer mode" switch to enable it.
@@ -47,7 +48,7 @@ To install the extension locally from the source, follow these steps:
 ## Usage
 1. Click on the Video Speed Controller icon in the Chrome toolbar.
 2. Use the slider or preset buttons to adjust the playback speed of the video on the current webpage.
-3. The playback speed will update in real-time as you adjust the controls.
+3. The playback speed will update in real time as you adjust the controls.
 
 ## Permissions
 This extension requires the following permissions:
