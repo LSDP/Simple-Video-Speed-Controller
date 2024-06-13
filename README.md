@@ -12,6 +12,16 @@ This Chrome extension allows users to dynamically control the playback speed of 
 
 ## Installation
 
+### Install from Chrome Web Store (Preferred)
+To install the extension from the Chrome Web Store, follow these steps:
+
+1. **Visit the Chrome Web Store Page**
+   - Click on the following link to visit the extension's page on the Chrome Web Store:
+     [Install from Chrome Web Store](https://chromewebstore.google.com/detail/simple-video-speed-contro/ohpkgkmkgebaafdahoaflnmjldoejmog)
+
+2. **Add to Chrome**
+   - Click on the "Add to Chrome" button to install the extension.
+
 ### Install from Source
 To install the extension locally from the source, follow these steps:
 
