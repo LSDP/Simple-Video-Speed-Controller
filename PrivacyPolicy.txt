@@ -1,0 +1,15 @@
+## Privacy Policy
+
+### Introduction
+This privacy policy explains how our Chrome extension handles your information. We do not collect, store, or share any personal data or usage information.
+
+### Data Collection
+Our extension does not collect, store, or transmit any personal data or information. All functionality of the extension operates locally on your device.
+
+### Permissions
+The permissions requested by the extension are used solely to provide the core functionality of the extension. Specifically:
+- The `activeTab` permission allows the extension to interact with the active tab to adjust video playback speeds.
+- The `scripting` permission allows the extension to inject scripts that modify the playback speed of videos on the current webpage.
+
+### Changes to This Policy
+We may update this privacy policy from time to time. Any changes will be posted on this page.

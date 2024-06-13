@@ -1,0 +1,82 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    background-color: #11111f; /* Background color */
+    color: white; /* Text color */
+}
+
+.container {
+    text-align: center;
+    width: 280px; /* Adjust the width to fit the content */
+}
+
+.preset-buttons {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 5px;
+    margin-bottom: 10px;
+}
+
+.preset {
+    padding: 10px;
+    font-size: 1.4em; /* Larger font size */
+    font-weight: bold; /* Bold font */
+    background-color: #3cdbc0; /* Button color */
+    color: #11111f; /* Text color in buttons */
+    border: none;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.preset:hover {
+    background-color: #248373; /* Highlighted field color */
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 1.4em; /* Larger font size */
+    font-weight: bold; /* Bold font */
+}
+
+input[type="range"],
+input[type="text"] {
+    margin-bottom: 8px;
+    display: block;
+    width: 100%;
+    font-size: 1.4em; /* Larger font size */
+    font-weight: bold; /* Bold font */
+    padding: 3px;
+    box-sizing: border-box; /* Ensure padding is included in the width calculation */
+    text-align: center; /* Center the text in the textbox */
+    background-color: #11111f; /* Background color */
+    color: white; /* Text color */
+    border: 1px solid #3cdbc0; /* Border color */
+}
+
+input[type="range"]::-webkit-slider-thumb {
+    background-color: #3cdbc0; /* Slider thumb color */
+}
+
+button {
+    display: block;
+    width: 100%;
+    padding: 7px;
+    background-color: #3cdbc0; /* Button color */
+    color: #11111f; /* Text color in buttons */
+    border: none;
+    cursor: pointer;
+    font-size: 1.4em; /* Larger font size */
+    font-weight: bold; /* Bold font */
+    margin-bottom: 8px;
+}
+
+button:hover {
+    background-color: #248373; /* Highlighted field color */
+}
